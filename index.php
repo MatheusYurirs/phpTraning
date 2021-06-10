@@ -1,5 +1,6 @@
 <?php
- echo "Olá mundo 2 !";
 
- echo"Olá curso de php";
+ echo "Olá mundo 12 !";
+
+ echo"Olá curso de php e olá Yuri";
  ?>
